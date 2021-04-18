@@ -71,3 +71,8 @@ border-color: #98ADA6;
 	color: #179CDA;
 	text-decoration: none;
 }
+
+.blog-text a:hover{
+	color: #179CDA;
+	text-decoration: underline;;
+}
