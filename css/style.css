@@ -65,6 +65,7 @@ border-color: #98ADA6;
 .press +p{
 
 	text-align: right;
+  font-size: small;
 }
 
 .blog-text a{
